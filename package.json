@@ -1,6 +1,7 @@
 {
   "name": "kv-test",
   "module": "index.ts",
+  "version": "v0.0.1",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
